@@ -48,9 +48,22 @@ The content inside `index` file is zipped (compressed)
 All commands of git either Read/Write inside the git folder
 whole tracking goes inside our local .git folder 
 
+The current status of the file is uncommited and it is present in staging area, where we are actually tracking the files which got added
+![image](https://github.com/user-attachments/assets/c8e1157c-3792-4a9c-8164-ec7240860bd7) ![image](https://github.com/user-attachments/assets/b5f8bdc2-a4a3-493c-90f7-266172d76edc)
 
 
 
+# git commit -m "what this feature do"
+![image](https://github.com/user-attachments/assets/90f7aa3d-c118-4618-b40c-f2f177cfcdeb)
+- Now it created a basically a checkpoint or snapshot or commit
+- every commit has an ID or a hash
+
+# git log
+to see the history
+
+![image](https://github.com/user-attachments/assets/1efdd311-ae8c-4888-89ba-e43abd791f7e)
+
+ 
 
 
 
